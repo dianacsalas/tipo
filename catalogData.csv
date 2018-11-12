@@ -1,0 +1,51 @@
+category,url,n_elements,min_price,max_price,mean_price
+Travel,catalogue/category/books/travel_2/index.html,11,23.21,56.88,39.79454545454546
+Mystery,catalogue/category/books/mystery_3/index.html,32,10.69,59.48,31.7190625
+Historical Fiction,catalogue/category/books/historical-fiction_4/index.html,26,16.62,55.55,33.644230769230774
+Sequential Art,catalogue/category/books/sequential-art_5/index.html,75,10.16,57.62,34.57226666666667
+Classics,catalogue/category/books/classics_6/index.html,19,14.82,58.63,36.54526315789474
+Philosophy,catalogue/category/books/philosophy_7/index.html,11,15.94,58.11,33.558181818181815
+Romance,catalogue/category/books/romance_8/index.html,35,11.1,59.99,33.93371428571428
+Womens Fiction,catalogue/category/books/womens-fiction_9/index.html,17,13.73,57.36,36.79117647058824
+Fiction,catalogue/category/books/fiction_10/index.html,65,10.6,59.98,36.06661538461539
+Childrens,catalogue/category/books/childrens_11/index.html,29,10.62,58.08,32.638275862068966
+Religion,catalogue/category/books/religion_12/index.html,7,21.87,57.49,32.56714285714286
+Nonfiction,catalogue/category/books/nonfiction_13/index.html,110,11.68,59.9,34.26018181818182
+Music,catalogue/category/books/music_14/index.html,13,12.36,57.25,35.63692307692308
+Default,catalogue/category/books/default_15/index.html,152,10.23,58.87,34.39269736842105
+Science Fiction,catalogue/category/books/science-fiction_16/index.html,16,10.65,54.86,33.8025
+Sports and Games,catalogue/category/books/sports-and-games_17/index.html,5,24.42,51.22,41.166
+Add a comment,catalogue/category/books/add-a-comment_18/index.html,67,10.02,59.15,35.79641791044776
+Fantasy,catalogue/category/books/fantasy_19/index.html,48,12.16,58.75,39.59395833333333
+New Adult,catalogue/category/books/new-adult_20/index.html,6,36.29,58.35,46.38333333333333
+Young Adult,catalogue/category/books/young-adult_21/index.html,54,10.0,58.14,35.449074074074076
+Science,catalogue/category/books/science_22/index.html,14,10.01,57.36,33.08857142857143
+Poetry,catalogue/category/books/poetry_23/index.html,19,14.19,57.31,35.97421052631579
+Paranormal,catalogue/category/books/paranormal_24/index.html,1,15.4,15.4,15.4
+Art,catalogue/category/books/art_25/index.html,8,10.29,49.05,38.519999999999996
+Psychology,catalogue/category/books/psychology_26/index.html,7,10.4,59.95,34.21857142857143
+Autobiography,catalogue/category/books/autobiography_27/index.html,9,10.93,59.04,37.053333333333335
+Parenting,catalogue/category/books/parenting_28/index.html,1,37.35,37.35,37.35
+Adult Fiction,catalogue/category/books/adult-fiction_29/index.html,1,15.36,15.36,15.36
+Humor,catalogue/category/books/humor_30/index.html,10,11.83,55.5,33.501
+Horror,catalogue/category/books/horror_31/index.html,17,10.56,57.86,35.94941176470588
+History,catalogue/category/books/history_32/index.html,18,11.45,59.64,37.294999999999995
+Food and Drink,catalogue/category/books/food-and-drink_33/index.html,30,11.05,59.92,31.414666666666665
+Christian Fiction,catalogue/category/books/christian-fiction_34/index.html,6,17.97,49.97,34.385
+Business,catalogue/category/books/business_35/index.html,12,12.61,51.74,32.46
+Biography,catalogue/category/books/biography_36/index.html,5,16.85,48.19,33.662
+Thriller,catalogue/category/books/thriller_37/index.html,11,12.84,59.71,31.433636363636364
+Contemporary,catalogue/category/books/contemporary_38/index.html,3,24.04,52.79,36.199999999999996
+Spirituality,catalogue/category/books/spirituality_39/index.html,6,17.66,55.65,35.098333333333336
+Academic,catalogue/category/books/academic_40/index.html,1,13.12,13.12,13.12
+Self Help,catalogue/category/books/self-help_41/index.html,5,12.08,52.15,40.620000000000005
+Historical,catalogue/category/books/historical_42/index.html,2,15.79,29.87,22.83
+Christian,catalogue/category/books/christian_43/index.html,3,25.77,54.0,42.49666666666666
+Suspense,catalogue/category/books/suspense_44/index.html,1,58.33,58.33,58.33
+Short Stories,catalogue/category/books/short-stories_45/index.html,1,35.88,35.88,35.88
+Novels,catalogue/category/books/novels_46/index.html,1,54.81,54.81,54.81
+Health,catalogue/category/books/health_47/index.html,4,49.05,54.07,51.4525
+Politics,catalogue/category/books/politics_48/index.html,3,51.33,56.86,53.61333333333332
+Cultural,catalogue/category/books/cultural_49/index.html,1,36.58,36.58,36.58
+Erotica,catalogue/category/books/erotica_50/index.html,1,19.19,19.19,19.19
+Crime,catalogue/category/books/crime_51/index.html,1,10.97,10.97,10.97
